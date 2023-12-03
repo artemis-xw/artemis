@@ -1,0 +1,16 @@
+{
+  "name": "artemis",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "yarn workspace website dev"
+  },
+  "keywords": [],
+  "author": "jiaao.mario@gmail.com",
+  "license": "ISC"
+}
