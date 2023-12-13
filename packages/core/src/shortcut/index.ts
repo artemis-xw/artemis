@@ -1,0 +1,7 @@
+class ShortCut {
+    constructor () {}
+
+    bindEvent () {
+        
+    }
+}
